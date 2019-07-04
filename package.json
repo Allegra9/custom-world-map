@@ -3,8 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/core": "^10.0.14",
+    "@emotion/styled": "^10.0.14",
+    "country-list": "^2.1.1",
+    "emotion": "^10.0.14",
     "react": "^16.8.6",
+    "react-color": "^2.17.3",
     "react-dom": "^16.8.6",
+    "react-jvectormap": "0.0.12",
     "react-scripts": "3.0.1"
   },
   "scripts": {
