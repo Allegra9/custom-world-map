@@ -4,7 +4,7 @@ Make a quick visual list of countries (countries visited, countries to visit, co
 
 ![](images/screenshot.png)
 
-<img src="images/screenshot.png" width="500" />
+<img src="https://github.com/Allegra9/custom-world-map/blob/master/src/images/screenshot.png" width="500" />
 
 ## How to run:
 
