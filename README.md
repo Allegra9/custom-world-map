@@ -1,3 +1,17 @@
+## Customizable world map
+
+Make a quick visual list of countries (countries visited, countries to visit, countries to live and work remotely from, etc)
+
+![](images/screenshot.png)
+
+<img src="images/screenshot.png" width="500" />
+
+## How to run:
+
+`npm install`
+
+`npm start` => localhost:3000 (Ctrl + C to stop)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
