@@ -2,9 +2,7 @@
 
 Make a quick visual list of countries (countries visited, countries to visit, countries to live and work remotely from, etc)
 
-![](images/screenshot.png)
-
-<img src="https://github.com/Allegra9/custom-world-map/blob/master/src/images/screenshot.png" width="500" />
+<img src="https://github.com/Allegra9/custom-world-map/blob/master/src/images/screenshot.png"/>
 
 ## How to run:
 
