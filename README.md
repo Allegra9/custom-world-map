@@ -6,9 +6,11 @@ Make a quick visual list of countries (countries visited, countries to visit, co
 
 ## How to run:
 
-`npm install`
+`npm i`
 
 `npm start` => localhost:3000 (Ctrl + C to stop)
+
+************************************
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
