@@ -1,6 +1,6 @@
 import React from "react";
 import { VectorMap } from "react-jvectormap";
-import ColorPicker from "./colorPicker";
+import ColorPicker from "./ColorPicker";
 
 import { jsx } from "@emotion/core";
 import styled from "@emotion/styled";
