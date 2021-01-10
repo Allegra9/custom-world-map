@@ -1,6 +1,6 @@
 import React from "react";
 import { VectorMap } from "react-jvectormap";
-import ColorPicker from "./colorPicker";
+import ColorPicker from "./ColorPicker";
 
 import { jsx } from "@emotion/core";
 import styled from "@emotion/styled";
@@ -69,8 +69,8 @@ class Map extends React.Component {
   };
 
   render() {
-    // console.log(this.state.data);
-    const { countriesNamesArray, title, titleSet, color } = this.state;
+    const { countriesNamesArray, data, title, titleSet, color } = this.state;
+    // console.log(data)
     return (
       <div>
         <VectorMap
@@ -104,7 +104,7 @@ class Map extends React.Component {
           series={{
             regions: [
               {
-                values: this.state.data, // this is the map data
+                values: data, // this is the map data
                 scale: ["#146804", color], // your color game's here
                 normalizeFunction: "polynomial"
               }
